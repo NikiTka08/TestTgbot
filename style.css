@@ -14,7 +14,7 @@
     border: 1;
     border-radius: 40px;
     user-select: none;
-    background: var(--tg-theme-bg_color);
+    background: var(--tg-theme-bg-color);
     flex-basis: 110px;
     justify-content: flex-start;
     margin: 10px;
