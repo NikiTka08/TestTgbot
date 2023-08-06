@@ -4,7 +4,7 @@
 
 .body {
     color: var(--tg-theme-text-color);
-    background: var(--tg-theme-secondary-bg-color)
+    background: var(--tg-theme-secondary-bg-color);
 }
 *{padding: 0; margin: 0;}
 .conteiner {
@@ -29,7 +29,7 @@
 
 .sale {
    background: var(--tg-theme-button-color);
-   color: var(--tg-theme-button-text-color)
+   color: var(--tg-theme-button-text-color);
    width: 492px;
    height: 50px;
    font-size: 20px;
