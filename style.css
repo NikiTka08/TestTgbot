@@ -3,6 +3,7 @@
 @import url('https://db.onlinewebfonts.com/c/1064f0ad1cb65fdab43bb592ddd8aa91?family=Gilroy-Bold');
 
 .body {
+    width: 1066px;
     color: var(--tg-theme-text-color);
     background: var(--tg-theme-secondary-bg-color);
 }
@@ -32,7 +33,7 @@
    color: var(--tg-theme-button-text-color);
    width: 492px;
    height: 50px;
-   font-size: 20px;
+   font-size: 25px;
    border-radius: 40px;
    border: 0px;
 }
